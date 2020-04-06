@@ -64,61 +64,61 @@ XAttacker v10 Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 
 <b>[1] WordPress :<b><br>
 
-[+] Adblock Blocker
-[+] Blaze
-[+] Catpro
-[+] Cherry Plugin
-[+] Download Manager
-[+] Formcraft
-[+] levoslideshow
-[+] Power Zoomer
-[+] Gravity Forms
-[+] Revslider Upload Shell
-[+] Revslider Get Config
-[+] Revslider Get cPanel
-[+] Showbiz
-[+] Simple Ads Manager
-[+] Slide Show Pro
-[+] WP Mobile Detector
-[+] Wysija
-[+] InBoundio Marketing
-[+] dzs-zoomsounds
-[+] Reflex Gallery
-[+] Creative Contact Form
-[+] Work The Flow File Upload
-[+] WP Job Manger
-[+] PHP Event Calendar
-[+] Content Injection
-[+] Cubed
-[+] Rightnow Theme
-[+] Konzept
-[+] Omni Secure Files
-[+] Pitchprint
-[+] Satoshi
-[+] Pinboard
-[+] Barclaycart
-[+] Wp Shop
-[+] Synoptic
-[+] ZoomSounds
-[+] WP Live Chat
-[+] WatuPRO
-[+] WPGraphQL
-[+] Ninja Forms
-[+] WebP Express
-[+] Caldera Forms Pro
-[+] Tajer
-[+] Audio Record
-[+] Mobile App Native
-[+] Tevolution
-[+] Webapp builder
-[+] Enfold
-[+] Swape
-[+] BBE
-[+] mTheme-Unus
-[+] JobCareer
-[+] Pinfinity
-[+] CarSpot
-[+] WP Install Path
+<br>[+] Adblock Blocker
+<br>[+] Blaze
+<br>[+] Catpro
+<br>[+] Cherry Plugin
+<br>[+] Download Manager
+<br>[+] Formcraft
+<br>[+] levoslideshow
+<br>[+] Power Zoomer
+<br>[+] Gravity Forms
+<br>[+] Revslider Upload Shell
+<br>[+] Revslider Get Config
+<br>[+] Revslider Get cPanel
+<br>[+] Showbiz
+<br>[+] Simple Ads Manager
+<br>[+] Slide Show Pro
+<br>[+] WP Mobile Detector
+<br>[+] Wysija
+<br>[+] InBoundio Marketing
+<br>[+] dzs-zoomsounds
+<br>[+] Reflex Gallery
+<br>[+] Creative Contact Form
+<br>[+] Work The Flow File Upload
+<br>[+] WP Job Manger
+<br>[+] PHP Event Calendar
+<br>[+] Content Injection
+<br>[+] Cubed
+<br>[+] Rightnow Theme
+<br>[+] Konzept
+<br>[+] Omni Secure Files
+<br>[+] Pitchprint
+<br>[+] Satoshi
+<br>[+] Pinboard
+<br>[+] Barclaycart
+<br>[+] Wp Shop
+<br>[+] Synoptic
+<br>[+] ZoomSounds
+<br>[+] WP Live Chat
+<br>[+] WatuPRO
+<br>[+] WPGraphQL
+<br>[+] Ninja Forms
+<br>[+] WebP Express
+<br>[+] Caldera Forms Pro
+<br>[+] Tajer
+<br>[+] Audio Record
+<br>[+] Mobile App Native
+<br>[+] Tevolution
+<br>[+] Webapp builder
+<br>[+] Enfold
+<br>[+] Swape
+<br>[+] BBE
+<br>[+] mTheme-Unus
+<br>[+] JobCareer
+<br>[+] Pinfinity
+<br>[+] CarSpot
+<br>[+] WP Install Path
 
 <b>[2] Joomla<br>
 
