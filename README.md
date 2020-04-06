@@ -93,31 +93,31 @@ XAttacker v10 Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 <br>[+] Rightnow Theme
 <br>[+] Konzept
 <br>[+] Omni Secure Files
-<br>[+] Pitchprint`Private`
-<br>[+] Satoshi`Private`
+<br>[+] Pitchprint `Private`
+<br>[+] Satoshi `Private`
 <br>[+] Pinboard
 <br>[+] Barclaycart
 <br>[+] Wp Shop
 <br>[+] Synoptic
 <br>[+] ZoomSounds
-<br>[+] WP Live Chat`Private`
-<br>[+] WatuPRO`Private`
-<br>[+] WPGraphQL`Private`
-<br>[+] Ninja Forms`Private`
-<br>[+] WebP Express`Private`
-<br>[+] Caldera Forms Pro`Private`
-<br>[+] Tajer`Private`
-<br>[+] Audio Record`Private`
-<br>[+] Mobile App Native`Private`
-<br>[+] Tevolution`Private`
-<br>[+] Webapp builder`Private`
-<br>[+] Enfold`Private`
-<br>[+] Swape`Private`
-<br>[+] BBE`Private`
-<br>[+] mTheme-Unus`Private`
-<br>[+] JobCareer`Private`
-<br>[+] Pinfinity`Private`
-<br>[+] CarSpot`Private`
+<br>[+] WP Live Chat `Private`
+<br>[+] WatuPRO `Private`
+<br>[+] WPGraphQL `Private`
+<br>[+] Ninja Forms `Private`
+<br>[+] WebP Express `Private`
+<br>[+] Caldera Forms Pro `Private`
+<br>[+] Tajer `Private`
+<br>[+] Audio Record `Private`
+<br>[+] Mobile App Native `Private`
+<br>[+] Tevolution `Private`
+<br>[+] Webapp builder `Private`
+<br>[+] Enfold `Private`
+<br>[+] Swape `Private`
+<br>[+] BBE `Private`
+<br>[+] mTheme-Unus `Private`
+<br>[+] JobCareer `Private`
+<br>[+] Pinfinity `Private`
+<br>[+] CarSpot `Private`
 <br>[+] WP Install Path
 
 <b>[2] Joomla<br>
